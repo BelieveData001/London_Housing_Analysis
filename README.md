@@ -7,7 +7,7 @@
 ## 📊 Key Visuals
 
 ### Average House Prices by Borough (2024)
-![Bar Chart] ![Screenshot 2025-04-06 023247](https://github.com/user-attachments/assets/89288ccc-a502-43b4-9bed-a0302ffec270)
+Bar Chart ![Screenshot 2025-04-06 023247](https://github.com/user-attachments/assets/89288ccc-a502-43b4-9bed-a0302ffec270)
 
 
 ### Price Trends – Top 5 Affordable Boroughs
