@@ -10,7 +10,7 @@
 Bar Chart ![Screenshot 2025-04-06 023247](https://github.com/user-attachments/assets/89288ccc-a502-43b4-9bed-a0302ffec270)
 
 ### PIVOT Table for Average House Price
-Pivot Table ![Screenshot 2025-04-06 141735](https://github.com/user-attachments/assets/91a6283b-0906-46e0-98d4-b1197bd32e89)
+![Screenshot 2025-04-06 141735](https://github.com/user-attachments/assets/91a6283b-0906-46e0-98d4-b1197bd32e89)
 
 
 ### Price Trends – Top 5 Affordable Boroughs
