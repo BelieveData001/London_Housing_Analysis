@@ -11,11 +11,11 @@ Bar Chart ![Screenshot 2025-04-06 023247](https://github.com/user-attachments/as
 
 
 ### Price Trends – Top 5 Affordable Boroughs
-![Line Chart] ![Screenshot 2025-04-06 023322](https://github.com/user-attachments/assets/a802af65-cfb7-489f-92a9-ded47c325ff7)
+Line Chart ![Screenshot 2025-04-06 023322](https://github.com/user-attachments/assets/a802af65-cfb7-489f-92a9-ded47c325ff7)
 
 
 ### Affordable Property Type
-![Bar Chart] ![Screenshot 2025-04-05 224726](https://github.com/user-attachments/assets/45730d54-92e4-4ad6-867d-921984218c0a)
+Bar Chart ![Screenshot 2025-04-05 224726](https://github.com/user-attachments/assets/45730d54-92e4-4ad6-867d-921984218c0a)
 
 ---
 
