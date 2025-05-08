@@ -46,7 +46,6 @@ Focus your home search in Barking & Dagenham, Croydon, Bexley, Havering, or Newh
 
 ## 📬 About Me
 
-I'm a data analyst with a growing portfolio in real-world problem-solving.
 
 - GitHub: [BelieveData001](https://github.com/BelieveData001)
 - LinkedIn: [Ejenavi Believe Okotie](linkedin.com/in/ejenavi-believe-okotie-63758333b)
